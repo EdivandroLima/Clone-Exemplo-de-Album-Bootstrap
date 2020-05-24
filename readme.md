@@ -7,3 +7,4 @@ Site clone: https://clone-exemplo-de-album-bootstrap.now.sh/
 - CSS3
 - Bootstrap 4.1
 - Feather icons
+- Holder.js
