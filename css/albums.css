@@ -1,0 +1,18 @@
+
+/* Feather Navbar */
+.feather {
+	margin-top: -5px;
+}
+.navbar .feather {
+	width: 20px;
+	height: 20px;
+	margin-right: 3px
+}
+
+.display-4 {
+	font-size: 40px
+}
+
+.card {
+	margin-bottom: 25px
+}
